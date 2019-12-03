@@ -3,7 +3,8 @@ from IPython.display import display, Image
 
 annotations = multi_label_annotate(
   ['1_3.jpg', '2_3.jpg','3_3.jpg'],
-  options={'Lengkap/Tidak':['Lengkap = Kecenderungan ekshibisionis, merasa mampu diterima secara sosial, keter-gantungan sosial.','Tidak = Depresif, tidak mengakui kenyataan, tertekan secraa neurotis, kurang dorongan berprestasi'], 
+  options={'Lengkap/Tidak':['Lengkap = Kecenderungan ekshibisionis, merasa mampu diterima secara sosial, keter-gantungan sosial.',
+          'Tidak = Depresif, tidak mengakui kenyataan, tertekan secraa neurotis, kurang dorongan berprestasi'], 
            'sedih/gembira':['Perasaan sedih /tertekan','Bersemangat dan motivasi berprestasi'],
            'lokasi':[
                       'Atas = Kurang kuat pegangan, kurang mantap, berfantasi untuk nampak kuat. Mungkin takabur atau tak mau tahu, mungkin optimis terhadap kerjanya, memandang rendah terhadap orang lain, tendensi kurang yakin akan dirinya.',

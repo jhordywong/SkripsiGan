@@ -1,0 +1,202 @@
+
+
+=IF(ISNUMBER(SEARCH("pegangan",B20)),"1","0")
+
+=IF(ISNUMBER(SEARCH("kemauan cukup tinggi",B20)),"1","0")
+
+=IF(ISNUMBER(SEARCH("memiliki adaptasi yang cukup baik",B20)),"1","0")
+
+=IF(ISNUMBER(SEARCH("perasaan insecure",B20)),"1","0")
+
+=IF(ISNUMBER(SEARCH("kontrol emosionil",B20)),"1","0")
+
+=IF(ISNUMBER(SEARCH("negativisme",B20)),"1","0")
+
+=IF(ISNUMBER(SEARCH("frustasi",B20)),"1","0")
+
+=IF(ISNUMBER(SEARCH("depresif",B20)),"1","0")
+
+
+=IF(ISNUMBER(SEARCH("penyesuaian diri baik",B20)),"1","0")
+
+=IF(ISNUMBER(SEARCH("menyatakan diri",B20)),"1","0")
+
+=IF(ISNUMBER(SEARCH("penuntut",B20)),"1","0")
+
+=IF(ISNUMBER(SEARCH("lingkungan",B20)),"1","0")
+
+
+
+=IF(ISNUMBER(SEARCH("Tendensi",B20)),"1","0")
+
+=IF(ISNUMBER(SEARCH("gangguan organis",B20)),"1","0")
+
+=IF(ISNUMBER(SEARCH("aspirasi lebih besar",B20)),"1","0"
+)
+
+=IF(ISNUMBER(SEARCH("Merasa kurang jantan",B20)),"1","0")
+
+=IF(ISNUMBER(SEARCH("Suka menyerang",B20)),"1","0")
+
+=IF(ISNUMBER(SEARCH("Regresi",B20)),"1","0")
+
+=IF(ISNUMBER(SEARCH("Tekanan/tuntutan kejantanan",B20)),"1","0")
+
+=IF(ISNUMBER(SEARCH("Kurang jantan",B20)),"1","0")
+
+=IF(ISNUMBER(SEARCH("Sifat kekacauan",B20)),"1","0")
+
+=IF(ISNUMBER(SEARCH("Tendensi castrasi",B20)),"1","0")
+
+=IF(ISNUMBER(SEARCH("Erotis protes",B20)),"1","0")
+
+=IF(ISNUMBER(SEARCH("Keraguan pada kejantanan",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("Skizoid",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("Ingin menunujukkan kejantanan",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("Perhatian berlebihan",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("Mengingkari",B20)),"1","0")
+
+
+=IF(ISNUMBER(SEARCH("Wajar",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("Sebagai hiasan",B20)),"1","0")
+
+
+=IF(ISNUMBER(SEARCH("Paranoia",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("Egosentris histeris",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("Pertautan ide-ide",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("Paranoid",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("Ingin mencampakkan dunia luar",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("Emotional immaturity",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("Tanda keengganann",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("Bermusuhan dan mengancam",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("unsur agresif",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("kontak sosila sangat kurang",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("Kekanak-kanakan",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("terhadap konflik yang dialami",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("Kepicikan pandangan",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("Rangsangan",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("Pikiran kacau",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("Rasa ingin tau hal dosa",B20)),"1","0")
+
+
+=IF(ISNUMBER(SEARCH("Menerima dan membutuhkan",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("Psikosmatik",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("Biasa pada anak",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("terus dapat dikatakan sadisme",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("tendensi menyerang secara",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("Tendensi orang depresif",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("Penolakan terhadap kebutuhan",B20)),"1","0")
+
+
+=IF(ISNUMBER(SEARCH("Jika berlebihan mungkin halusinasi",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("Tendensi oposisi",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("Peka terhadap kritik",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("Kesadaran pribadi",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("Konflik dengan hubungan",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("lebih umum pada orang lanjut usia",B20)),"1","0")
+
+
+=IF(ISNUMBER(SEARCH("tak bisa mengambil keputusan",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("dari perasaan tak mampu",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("Adanya dorongan agresif",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("Ketergantungan pada jenis lain",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("Menunjukkan sifat kejantanan",B20)),"1","0")
+
+=IF(ISNUMBER(SEARCH("Kurang mampun mengontrol dorongan",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("mungkin rigid",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("Sering membiarkan dorongan-dorongan",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("Melakukan Kontrol intelektual",B20)),"1","0")
+
+
+=IF(ISNUMBER(SEARCH("merasa mampu",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("Perasaan inferior, kurang mampu",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("defensif terhadap",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("konflik peran seksualnya",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("Kurang yakin pada kemampuan",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("seimbang dan merasa mampu",B20)),"1","0")
+
+
+=IF(ISNUMBER(SEARCH("scizoprenic",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("Gangguan otak yang berhubungan dengan motorik",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("Konflik dalam kontan dengan",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("bermusuhan dan seksualitas",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("Menolak dunia luar karena rasa curiga",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("Ambisi,",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("Merasa lemah dan sia",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("Lemah, ada hambatan kontak sosial",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("Guilty feeling,",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("Perasaan menghukum",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("Mengutamakan kekuatan",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("mengharapkan perhatian dan kasih",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("Ambisi dan mencari kompensasi",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("Melaksanakan interaksi sosial",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("Siap berhubungan dengan",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("Butuh dorongan emosionil",B20)),"1","0")
+
+
+=IF(ISNUMBER(SEARCH("ingin memperbaiki hubungan sosial karena merasa tak pasti",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("Perasaan tidak pasti dalam kontak",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("Kesulitan dan",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("Menolak atau ketidaksediaan berhubungna",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("Rasa bersalah, masturbasi,",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("Perhatian pada seksual,",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("Cenderung ke arah paraniod",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("Agresi terhadap/",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("Agresif dalam bentuk motorik,",B20)),"1","0")
+
+
+=IF(ISNUMBER(SEARCH("Penolakan terhadap impuls fisik,",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("Menhindari dorongan fisik,",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("Kurang merasakan kepauasan fisik,",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("Menentang/",B20)),"1","0")
+
+=IF(ISNUMBER(SEARCH("Perasaan tertekan dan tergantung yang bersifat",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("Berusaha mencapai otoritas,",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("Merasa kurang lincah",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("Menentang kekuasaan,",B20)),"1","0")
+
+=IF(ISNUMBER(SEARCH("Traumatis,",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("Perasan tidak mampu,",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("Tertekan, kontrol kaku terhadap",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("Kebutuhan yang besar akan rasa",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("Berhubungan dengan seksualitas pria,",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("Permusuhan yang ditekan,",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("Sifat kepala batu",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("Wajar bagi anak kecil,",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("Vitalitas lemah",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("Skizoid",B20)),"1","0")
+
+=IF(ISNUMBER(SEARCH("normal",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("Narsistis",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("Pemujaan terhadap fisik",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("Kurang mantap pada kekautan fisiknya",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("Kompulsif",B20)),"1","0")
+
+=IF(ISNUMBER(SEARCH("Mencari perhatian, menunjukkan penyesuaian",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("Sering dihubungkan dengan agresi seksuil yang dimunculkan",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("Deprifasi afeksi, ketergantungan pada ibu",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("Ketergantungan",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("suka minta",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("Ketergantungan pada ibu",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("Santa teliti, formil",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("Kontrol kuat terhadap nafsu",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("Biasa, mudah menyatakan dorongan",B20)),"1","0")
+=IF(ISNUMBER(SEARCH("Obsesif kompulsif",B20)),"1","0")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
